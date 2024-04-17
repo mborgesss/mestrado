@@ -1,0 +1,10 @@
+*checkpoints*
+*cache*
+*venv*
+*__pycache__**
+*.ipynb_checkpoints**
+data/raw_data/*
+data/pre_processing/*
+data/stations/*
+*draft*
+*backup*
